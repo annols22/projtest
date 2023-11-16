@@ -3,14 +3,18 @@ title: Brukermanual
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details. Jeg heter Anniken, jeg drekker sofieros hver dag.
+<!-- This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details. Jeg heter Anniken, jeg drekker sofieros hver dag. -->
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+<!-- If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages. -->
 
 Hei Jan,
+Sjekk ut bildene
 
 ![bruker1](images/bruker1.png)
-More specifically, the created site:
+
+![bruker2](images/bruker2.png)
+
+<!-- More specifically, the created site:
 
 - uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
 - uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
@@ -35,4 +39,4 @@ If you want to maintain your docs in the `docs` directory of an existing project
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate -->
