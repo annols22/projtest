@@ -10,6 +10,8 @@ layout: home
 Hei Jan,
 Sjekk ut bildene
 
+[Link to Installasjonsguide](/installasjonsguide.md/)
+
 ![bruker1](images/bruker1.png)
 
 ![bruker2](images/bruker2.png)
