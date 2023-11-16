@@ -1,5 +1,5 @@
 ---
-title: Brukermanual
+title: Oversikt
 layout: home
 ---
 
@@ -10,7 +10,7 @@ layout: home
 Hei Jan,
 Sjekk ut bildene
 
-[Link to Installasjonsguide](/installasjonsguide.md/)
+<!-- [Link to Installasjonsguide](/installasjonsguide.md/) -->
 
 ![bruker1](images/bruker1.png)
 
