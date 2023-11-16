@@ -9,7 +9,7 @@ If [Jekyll] is installed on your computer, you can also build and preview the cr
 
 Hei Jan,
 
-![bruker1](/images/bruker1.png)
+![bruker1](images/bruker1.png)
 More specifically, the created site:
 
 - uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
