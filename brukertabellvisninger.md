@@ -17,3 +17,18 @@ Listevisningen viser følgende informasjon om hvert prosjekt:
 * Dato for opprettelse
 
 ![](images/bruker11.png)
+
+#### 2.1.1 Prosjektdetaljer
+Ved å trykke på de tre prikkene på høyere side av hvert prosjekt, vil brukeren kunne se litt mer informasjon om prosjektet uten å måtte navigere bort fra forsiden. 
+
+![](images/bruker22.png)
+
+## 2.2 Kortvisning
+Kortvisningen inneholder følgende data om hvert prosjekt:
+
+* Prosjektnavn
+* Hvilken fase 
+* Prosjektleder
+* Prosjekteier
+
+![](images/bruker33.png)
