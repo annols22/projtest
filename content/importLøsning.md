@@ -1,7 +1,7 @@
 ---
 title: Import av løsningen
 layout: home
-nav_order: 22
+nav_order: 12
 has_children : false
 parent: Installasjonsguide
 ---
