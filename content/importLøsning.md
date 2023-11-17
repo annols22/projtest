@@ -6,7 +6,7 @@ has_children : false
 parent: Installasjonsguide
 ---
 ## 2. Importer løsningen
-Åpne nettleseren din og gå til *[make.powerapps.com](https://www.make.powerapps.com)*, og velg det miljøet du ønsker å installere løsningen oppe i høyre hjørne:
+Åpne nettleseren din og gå til *[make.powerapps.com](https://make.powerapps.com)*, og velg det miljøet du ønsker å installere løsningen oppe i høyre hjørne:
 
 ![](../images/inst11.png)
 
