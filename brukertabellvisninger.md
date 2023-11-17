@@ -23,7 +23,7 @@ Ved å trykke på de tre prikkene på høyere side av hvert prosjekt, vil bruker
 
 ![](images/bruker22.png)
 
-## 2.2 Kortvisning
+### 2.2 Kortvisning
 Kortvisningen inneholder følgende data om hvert prosjekt:
 
 * Prosjektnavn
