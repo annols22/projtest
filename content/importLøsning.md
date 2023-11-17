@@ -35,7 +35,7 @@ Velg området i SharePoint applikasjonen skal knyttes opp, deretter velger du li
 Lim inn URL til området til Prosjektportalen.
 
 #### 2.1.3 Theme (JSON)
-Denne miljøvariabelen avgjør fargetemaet for appen. *[Trykk her] (https://fluentuipr.z22.web.core.windows.net/heads/master/theming-designer/index.html)* og legg til ønskelige farger på venstre side av nettsiden. Vi anbefaler at tekst og bakgrunnsfargen forblir svart og hvit, og kun velge en primærfarge.
+Denne miljøvariabelen avgjør fargetemaet for appen. *[Trykk her](https://fluentuipr.z22.web.core.windows.net/heads/master/theming-designer/index.html)* og legg til ønskelige farger på venstre side av nettsiden. Vi anbefaler at tekst og bakgrunnsfargen forblir svart og hvit, og kun velge en primærfarge.
 
 ![](../images/inst44.png)
 
@@ -43,4 +43,4 @@ Deretter trykker du på den blå knappen som heter «Export theme». Da vil dett
 
 ![](../images/inst55.png)
 
-Trykk på den midterste faenen «JSON», kopier koden i vinduet og lim den inn i miljøvariabelen. 
+Trykk på den midterste faenen «JSON», kopier koden i vinduet og lim den inn i miljøvariabelen.
