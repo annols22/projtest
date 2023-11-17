@@ -5,8 +5,42 @@ nav_order: 22
 has_children : false
 parent: Installasjonsguide
 ---
-## Importer løsningen
+## 3. Importer løsningen
 Åpne nettleseren din og gå til make.powerapps.com (link), og velg det miljøet du ønsker å installere løsningen oppe i høyre hjørne:
 
 ![](../images/inst11.png)
-<!-- <img src = "../images/inst1.png" width = 15%> -->
+
+Når riktig miljø er valgt, så trykker du på **Løsninger** på venstre side:
+
+![](../images/inst22.png)
+
+Trykk på **Importer løsning** i kommandobaren på toppen:
+
+![](../images/inst33.png)
+
+Deretter vises en pop-up vindu på høyre side. Her lastes opp zip-filen som du hentet fra App Source.
+
+
+### 3.1 Miljøvariabler
+For at applikasjonen skal bli satt opp riktig finnes det ulike miljøvariabler som må fylles ut:
+* SharePoint Projects Site
+* SharePoint Projects List
+* Projects Site URL
+* Theme (JSON)
+
+#### 3.1.1 SharePoint Projects Site og List
+Velg området i SharePoint applikasjonen skal knyttes opp, deretter velger du listen kalt «Prosjekter».
+
+#### 3.1.2 Projects Site URL
+Lim inn URL til området til Prosjektportalen.
+
+#### 3.1.3 Theme (JSON)
+Denne miljøvariabelen avgjør fargetemaet for appen. Trykk her (link) og legg til ønskelige farger på venstre side av nettsiden. Vi anbefaler at tekst og bakgrunnsfargen forblir svart og hvit, og kun velge en primærfarge.
+
+![](../images/inst44.png)
+
+Deretter trykker du på den blå knappen som heter «Export theme». Da vil dette vinduet vises på høyre side av skjermen:
+
+![](../images/inst55.png)
+
+Trykk på den midterste faenen «JSON», kopier koden i vinduet og lim den inn i miljøvariabelen. 
