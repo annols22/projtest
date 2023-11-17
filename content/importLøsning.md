@@ -8,4 +8,4 @@ parent: Installasjonsguide
 ## Importer løsningen
 Åpne nettleseren din og gå til make.powerapps.com (link), og velg det miljøet du ønsker å installere løsningen oppe i høyre hjørne:
 
-![hey](images/inst1.png)
+![](../images/inst1.png)
