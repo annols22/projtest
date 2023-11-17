@@ -1,5 +1,5 @@
 ---
-title: Oversikt
+title: Brukermanual
 layout: home
 ---
 

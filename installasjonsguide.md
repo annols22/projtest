@@ -1,6 +1,6 @@
 ---
 title: Installasjonsguide
-permalink: /installasjonsguide/
+layout: home
 ---
 
 Test
