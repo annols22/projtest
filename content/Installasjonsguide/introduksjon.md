@@ -6,5 +6,5 @@ has_children : false
 parent: Installasjonsguide
 ---
 
-#Introduksjon
+# Introduksjon
 Denne guiden forkarer hele installasjonsprosessen fra start til slutt (...).
