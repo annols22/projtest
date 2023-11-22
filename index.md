@@ -4,6 +4,6 @@ layout: home
 nav_order: 2
 has_children : true
 ---
-# Brukermanual
+# Brukermanual for applikasjonen
 
-Her finner du bruker manualen for Prosjektoversikt applikasjonen. 
+Nedenfor finner du innholdsfortegnelsen for brukermanualen.
