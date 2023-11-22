@@ -18,7 +18,7 @@ Listevisningen viser følgende informasjon om hvert prosjekt:
 
 ![](images/bruker11.png)
 
-#### 2.1.1 Prosjektdetaljer
+##### 2.1.1 Prosjektdetaljer
 Ved å trykke på de tre prikkene på høyere side av hvert prosjekt, vil brukeren kunne se litt mer informasjon om prosjektet uten å måtte navigere bort fra forsiden. 
 
 ![](images/bruker22.png)

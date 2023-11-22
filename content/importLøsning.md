@@ -28,13 +28,13 @@ For at applikasjonen skal bli satt opp riktig finnes det ulike miljøvariabler s
 * Projects Site URL
 * Theme (JSON)
 
-#### 2.1.1 SharePoint Projects Site og List
+##### 2.1.1 SharePoint Projects Site og List
 Velg området i SharePoint applikasjonen skal knyttes opp, deretter velger du listen kalt «Prosjekter».
 
-#### 2.1.2 Projects Site URL
+##### 2.1.2 Projects Site URL
 Lim inn URL til området til Prosjektportalen.
 
-#### 2.1.3 Theme (JSON)
+##### 2.1.3 Theme (JSON)
 Denne miljøvariabelen avgjør fargetemaet for appen. *[Trykk her](https://fluentuipr.z22.web.core.windows.net/heads/master/theming-designer/index.html)* og legg til ønskelige farger på venstre side av nettsiden. Vi anbefaler at tekst og bakgrunnsfargen forblir svart og hvit, og kun velge en primærfarge.
 
 ![](../images/inst44.png)
