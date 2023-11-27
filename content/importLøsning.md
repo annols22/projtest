@@ -4,7 +4,6 @@ layout: home
 nav_order: 12
 has_children : false
 parent: Installasjonsguide
-$link-color: $blue-000;
 ---
 ## 2. Importer løsningen
 Åpne nettleseren din og gå til *[make.powerapps.com](https://make.powerapps.com)*, og velg det miljøet du ønsker å installere løsningen oppe i høyre hjørne:
