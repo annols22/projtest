@@ -9,6 +9,4 @@ has_children : true
 Nedenfor finner du innholdet i installasjonsguiden. 
 Lykke til! 
 
-body {
-    color: $puzzlepart-1;
-}
+This is some text with a <span style="color: $puzzlepart-1;">custom color</span>.
