@@ -8,3 +8,7 @@ has_children : true
 
 Nedenfor finner du innholdet i installasjonsguiden. 
 Lykke til! 
+
+{
+    color: $puzzlepart-1
+}
